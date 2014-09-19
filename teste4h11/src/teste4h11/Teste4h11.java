@@ -17,5 +17,6 @@ public class Teste4h11 {
         // TODO code application logic here
         System.out.println("Olá Mundo");
         int x=0;
+        int y=0;
     }
 }
